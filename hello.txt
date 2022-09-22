@@ -1,2 +1,2 @@
-hello git !!!  666666
 hello git !!!  这是master分支
+hello git !!!  这是hot-fox分支
